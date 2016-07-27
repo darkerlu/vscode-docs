@@ -5,7 +5,9 @@ PageTitle: Visual Studio Code Frequently Asked Questions
 DateApproved: 7/7/2016
 MetaDescription: Our docs contain a Common Questions section. Here are items that don't fit in the other topics.
 ---
-
+# vscode for php
+PHP syntax position detection and function definitions to jump
+  
 # Visual Studio Code FAQ
 
 Our docs contain a **Common Questions** section as needed for specific topics. We've captured items here that don't fit in the other topics.
